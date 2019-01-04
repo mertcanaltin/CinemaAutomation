@@ -1,0 +1,15 @@
+C:\Users\can\source\repos\mertcanaltin\mertcanaltin\bin\Debug\mertcanaltin.exe.config
+C:\Users\can\source\repos\mertcanaltin\mertcanaltin\bin\Debug\mertcanaltin.exe
+C:\Users\can\source\repos\mertcanaltin\mertcanaltin\bin\Debug\mertcanaltin.pdb
+C:\Users\can\source\repos\mertcanaltin\mertcanaltin\obj\Debug\mertcanaltin.csprojAssemblyReference.cache
+C:\Users\can\source\repos\mertcanaltin\mertcanaltin\obj\Debug\mertcanaltin.Bilet_Kes.resources
+C:\Users\can\source\repos\mertcanaltin\mertcanaltin\obj\Debug\mertcanaltin.filmler.resources
+C:\Users\can\source\repos\mertcanaltin\mertcanaltin\obj\Debug\mertcanaltin.Form1.resources
+C:\Users\can\source\repos\mertcanaltin\mertcanaltin\obj\Debug\mertcanaltin.koltuksec.resources
+C:\Users\can\source\repos\mertcanaltin\mertcanaltin\obj\Debug\mertcanaltin.Properties.Resources.resources
+C:\Users\can\source\repos\mertcanaltin\mertcanaltin\obj\Debug\mertcanaltin.salonlar.resources
+C:\Users\can\source\repos\mertcanaltin\mertcanaltin\obj\Debug\mertcanaltin.seanslar.resources
+C:\Users\can\source\repos\mertcanaltin\mertcanaltin\obj\Debug\mertcanaltin.csproj.GenerateResource.cache
+C:\Users\can\source\repos\mertcanaltin\mertcanaltin\obj\Debug\mertcanaltin.csproj.CoreCompileInputs.cache
+C:\Users\can\source\repos\mertcanaltin\mertcanaltin\obj\Debug\mertcanaltin.exe
+C:\Users\can\source\repos\mertcanaltin\mertcanaltin\obj\Debug\mertcanaltin.pdb
